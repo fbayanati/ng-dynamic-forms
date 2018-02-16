@@ -1060,7 +1060,7 @@ To specify a single JSON form control model just **assign the mandatory** `type`
             }
         ],
         "value": "option-3"    
-    }
+    },
     {
         "type": "CHECKBOX",
         "id": "sampleCheckbox",
